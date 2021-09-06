@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @johageko; actually my name is Joachim. I live in Ottawa, Ontario. 
-- 👀 I’m interested in data science and other stuff. For more information about me, just have a look at my website @ www.reinbekconsulting.ca. 
-- 🌱 I’m currently learning Python. 
+- 👋 Hello,my name is Joachim. I live in Ottawa, Ontario. 
+- 👀 I’m interested in data, language, business and politics. For more information about me, just have a look at www.reinbekconsulting.ca. 
+- 🌱 I have been learning Python for some time now. Recently, I moved a bit beyond it at le Wagon Montreal. 
 - 💞️ I’m looking to collaborate on sundry projects. 
 - 📫 How to reach me: Just drop me a line at joachim.kolb@gmail.com
 
